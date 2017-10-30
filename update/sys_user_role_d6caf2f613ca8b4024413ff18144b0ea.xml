@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_opt_impact_commu.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>000391020</sys_created_by>
+        <sys_created_on>2017-10-30 14:58:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d6caf2f613ca8b4024413ff18144b0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_opt_impact_commu.user</sys_name>
+        <sys_package display_value="Impact Communicator" source="x_opt_impact_commu">9ecaf67613ca8b4024413ff18144b0ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Impact Communicator">9ecaf67613ca8b4024413ff18144b0ea</sys_scope>
+        <sys_update_name>sys_user_role_d6caf2f613ca8b4024413ff18144b0ea</sys_update_name>
+        <sys_updated_by>000391020</sys_updated_by>
+        <sys_updated_on>2017-10-30 14:58:48</sys_updated_on>
+    </sys_user_role>
+</record_update>

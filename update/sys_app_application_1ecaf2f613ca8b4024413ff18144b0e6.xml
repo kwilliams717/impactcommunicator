@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Impact Communicator</name>
+        <order/>
+        <roles>x_opt_impact_commu.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>000391020</sys_created_by>
+        <sys_created_on>2017-10-30 14:58:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ecaf2f613ca8b4024413ff18144b0e6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Impact Communicator</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Impact Communicator" source="x_opt_impact_commu">9ecaf67613ca8b4024413ff18144b0ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Impact Communicator">9ecaf67613ca8b4024413ff18144b0ea</sys_scope>
+        <sys_update_name>sys_app_application_1ecaf2f613ca8b4024413ff18144b0e6</sys_update_name>
+        <sys_updated_by>000391020</sys_updated_by>
+        <sys_updated_on>2017-10-30 14:58:48</sys_updated_on>
+        <title>Impact Communicator</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

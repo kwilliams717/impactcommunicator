@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Impact Communicator">1ecaf2f613ca8b4024413ff18144b0e6</menu>
+        <name>Impact Communicator</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_opt_impact_commu</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_opt_impact_commu</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>000391020</sys_created_by>
+        <sys_created_on>2017-10-30 14:58:48</sys_created_on>
+        <sys_id>9ecaf67613ca8b4024413ff18144b0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>000391020</sys_updated_by>
+        <sys_updated_on>2017-10-30 14:58:48</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_opt_impact_commu.user" name="x_opt_impact_commu.user">d6caf2f613ca8b4024413ff18144b0ea</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
